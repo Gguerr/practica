@@ -1,1 +1,0 @@
-este es un archivo de texto plano y es una practica de git para saber atualizar un respositorio 
